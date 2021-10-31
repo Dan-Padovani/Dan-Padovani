@@ -1,6 +1,6 @@
 ## Hi! I'm Daniel Padovani 👋
 
-I'm a student Software Engineering at [*École 42 || 42sp*](https://www.42sp.org.br/).  
+I'm a Software Engineering student at [*École 42 || 42sp*](https://www.42sp.org.br/).  
 Currently I'm a learning C, Shell and Unix.  
 Beyond my course I'm learning another programing languages.  
 My current goal is to deepen my studies and knowledge in software development and always to be learning something new.
