@@ -1,8 +1,8 @@
 ## Hi! I'm Daniel Padovani 👋
 
-I'm a Software Engineering student at [*École 42 || 42sp*](https://www.42sp.org.br/).  
-Currently I'm a learning C, Shell and Unix.  
-Beyond my course I'm learning the base (HMTL, CSS3 and Java Script) to became a front-end developer.  
+Currently I'm a learning HMTL, CSS3, Java Script and C.  
+With Rocketseat I'm learning the base of web development to became a front-end developer.
+I'm a Software Engineering student too at [*École 42 || 42sp*](https://www.42sp.org.br/).  
 My current goal is to deepen my studies and knowledge in software development and always to be learning something new.
 
 
