@@ -4,7 +4,7 @@ Currently I'm a learning HMTL, CSS3, Java Script and C.
 With Rocketseat I'm learning the base of web development to became a front-end developer.
 <br>
 I'm a Software Engineering student too at [*École 42 || 42sp*](https://www.42sp.org.br/).  
-My current goal is to deepen my studies and knowledge always learning something new.
+My current goal is to deepen my studies and knowledge always learning something new and contribute and sharing knowledge.
 
 <div>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dan-Padovani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
