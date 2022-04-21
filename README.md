@@ -1,6 +1,6 @@
 ## Hi! I'm Daniel Padovani 👋
 
-Currently I'm a learning HMTL, CSS3, Java Script and C.  
+Currently I'm a learning HMTL, CSS3, Java Script.  
 With Rocketseat I'm learning the base of web development to became a front-end developer.
 <br>
 My current goal is to deepen my studies and knowledge always learning something new and contribute and sharing knowledge.
