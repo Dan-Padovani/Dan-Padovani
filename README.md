@@ -1,9 +1,10 @@
 ## Hi! I'm Daniel Padovani 👋
 
-Currently I'm a learning HMTL, CSS3, Java Script.  
-With Rocketseat I'm learning the base of web development to became a front-end developer.
-<br>
-My current goal is to deepen my studies and knowledge always learning something new and contribute and sharing knowledge.
+I'm a software enginner, currently I'm focusing to learn React and Node.Js.  
+
+With Rocketseat I'm learning the base of a fullstack development.
+
+My current goal is to deepen my studies and knowledge always learning something new, contributing and sharing knowledge.
 
 <div>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dan-Padovani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
